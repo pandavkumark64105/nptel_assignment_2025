@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Soft Skills — July 2025 Assignment Reader</title>
+<style>
+:root{--navy:#15324b;--teal:#007c91;--bg:#f4f7fb;--ink:#17212b;--muted:#617181;--card:#fff;--line:#dce5ec}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+header{background:linear-gradient(130deg,#15324b,#007c91);color:white;padding:30px 20px 26px}
+.wrap{max-width:1050px;margin:auto}h1{font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 8px}header p{margin:0;color:#e5f7fa}
+.controls{display:grid;grid-template-columns:1fr 200px;gap:12px;margin:20px 0}
+input,select,button{font:inherit;border:1px solid var(--line);border-radius:10px;padding:11px 13px;background:white;color:var(--ink)}
+main{padding:0 18px 50px}.meta{color:var(--muted);font-size:.92rem;margin-bottom:12px}
+.week-title{margin:28px 0 12px;color:var(--navy);border-bottom:2px solid #c8e7eb;padding-bottom:7px}
+.qcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:12px 0;box-shadow:0 3px 12px #15324b0b}
+.qhead{display:flex;gap:10px;align-items:flex-start}.num{background:#e4f5f7;color:var(--teal);font-weight:750;border-radius:8px;padding:2px 9px;white-space:nowrap}
+.qtext{font-weight:650;margin:0 0 12px}.options{margin:0 0 12px;padding-left:22px}.options li{margin:3px 0}
+details{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}summary{cursor:pointer;color:var(--teal);font-weight:700}
+.explanation{background:#f3f8fa;border-left:3px solid var(--teal);padding:12px 14px;margin-top:10px;border-radius:0 8px 8px 0}
+.empty{padding:30px;text-align:center;color:var(--muted)}.topline{display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+a{color:inherit}.download{display:inline-block;text-decoration:none;border:1px solid #ffffff88;padding:8px 12px;border-radius:9px;color:white;margin-top:14px}
+footer{text-align:center;color:var(--muted);padding:22px;font-size:.88rem}
+@media(max-width:600px){.controls{grid-template-columns:1fr}.qcard{padding:15px}}
+</style></head>
+<body>
+<header><div class="wrap"><h1>Soft Skills Assignment Reader</h1><p>NPTEL • July 2025 • Week 1–12</p><a class="download" href="Soft_Skills_July_2025_Assignment_Explained.docx" download>Download formatted DOCX</a></div></header>
+<main class="wrap">
+<div class="controls"><input id="search" type="search" placeholder="Search questions, options or explanations…"><select id="week"><option value="all">All weeks</option></select></div>
+<div class="topline"><div id="count" class="meta">Loading assignment…</div><button id="expand">Expand all explanations</button></div>
+<div id="content"></div>
+</main><footer>Study reader • Search by keyword or filter by week. Explanations are transcribed from the supplied PDF.</footer>
+<script>
+let data=[];
+const content=document.getElementById('content'), search=document.getElementById('search'), weekSelect=document.getElementById('week'), count=document.getElementById('count'), expand=document.getElementById('expand');
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function init(){data.forEach(w=>{let o=document.createElement('option');o.value=w.week;o.textContent='Week '+w.week;weekSelect.appendChild(o)});render();}
+function render(){
+ const term=search.value.trim().toLowerCase(), chosen=weekSelect.value;let shown=0, total=0, out='';
+ data.forEach(w=>{if(chosen!=='all'&&String(w.week)!==chosen)return;
+ let cards='';
+ w.questions.forEach(q=>{total++;let hay=[q.question,...q.options,...q.extra,q.explanation].join(' ').toLowerCase();if(term&&!hay.includes(term))return;shown++;
+ cards+=`<article class="qcard"><div class="qhead"><span class="num">Q${q.number}</span><div class="qtext">${esc(q.question)}</div></div>`;
+ if(q.extra&&q.extra.length)cards+=`<p><strong>${q.extra.map(esc).join('<br>')}</strong></p>`;
+ if(q.options&&q.options.length)cards+=`<ul class="options">${q.options.map(o=>`<li>${esc(o)}</li>`).join('')}</ul>`;
+ if(q.explanation)cards+=`<details><summary>Read explanation</summary><div class="explanation">${esc(q.explanation)}</div></details>`;
+ cards+='</article>';});
+ if(cards)out+=`<section><h2 class="week-title">Week ${w.week} Assignment</h2>${cards}</section>`;
+ });
+ content.innerHTML=out||'<div class="empty">No matching questions. Try another keyword or week.</div>';
+ count.textContent=`Showing ${shown} question${shown===1?'':'s'}${chosen==='all'?' across all weeks':' in Week '+chosen}.`;
+ expand.textContent='Expand all explanations';
+}
+search.addEventListener('input',render);weekSelect.addEventListener('change',render);
+expand.addEventListener('click',()=>{let ds=[...document.querySelectorAll('details')],open=ds.some(d=>!d.open);ds.forEach(d=>d.open=open);expand.textContent=open?'Collapse all explanations':'Expand all explanations';});
+fetch('assignment.json').then(r=>r.json()).then(d=>{data=d;init()}).catch(()=>{content.innerHTML='<p class="empty">Could not load assignment.json. Deploy the complete folder together.</p>';});
+</script></body></html>

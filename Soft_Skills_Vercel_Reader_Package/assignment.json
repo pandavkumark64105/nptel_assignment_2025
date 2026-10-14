@@ -1,0 +1,1452 @@
+[
+  {
+    "week": 1,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "The term “Hard skills” and “Soft skills” are often used to signify the",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "software and hardware of computers. Hard and soft skills do not refer to computer hardware or software. Hard skills are technical abilities learned through formal education. Soft skills are interpersonal and behavioral traits developed through experience."
+      },
+      {
+        "number": 2,
+        "question": "Soft skills are the one-time learning process.",
+        "options": [
+          "A.  False",
+          "B.  True"
+        ],
+        "extra": [],
+        "explanation": "Soft skills are not learned once; they require continuous improvement. They develop through ongoing experiences, practice, and feedback. Unlike hard skills, they evolve with personality and workplace interactions."
+      },
+      {
+        "number": 3,
+        "question": "A positive attitude at workplace seldom stimulates co-workers to achieve",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "desired organizational goals. A positive attitude usually motivates and inspires co-workers. It creates a supportive environment that boosts teamwork and productivity. Negative emotions like criticizing or complaining hinder such positive impact."
+      },
+      {
+        "number": 4,
+        "question": "Commonality and cordiality are the hallmarks of effective communication.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Effective communication relies on common understanding and friendly interaction. Cordiality builds trust and cooperation among people. It ensures messages are received positively and clearly."
+      },
+      {
+        "number": 5,
+        "question": "Information that comes through Grapevine communication is trustworthy.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Grapevine is an informal communication channel often based on rumors. Information through it is not always reliable or accurate. Managers must verify and use it carefully to avoid misunderstandings."
+      },
+      {
+        "number": 6,
+        "question": "__________________ plays a vital role in communication.",
+        "options": [
+          "A.  Ebullience",
+          "B.  Environment"
+        ],
+        "extra": [],
+        "explanation": "The environment influences how messages are sent and received. A positive environment enhances clarity, attention, and understanding. Noise, distractions, or hostility can hinder effective communication."
+      },
+      {
+        "number": 7,
+        "question": "______________ is the hallmark of communication.",
+        "options": [
+          "A.  Conscription",
+          "B.  Consciousness"
+        ],
+        "extra": [],
+        "explanation": "Consciousness is the hallmark of communication because it allows a person to be aware of and understand the messages they send and receive. It enables the brain to interpret signals from the senses and coordinate appropriate responses. Without consciousness, the entire process of communicating meaningfully would not be possible."
+      },
+      {
+        "number": 8,
+        "question": "Soliloquy is the example of _____________ communication.",
+        "options": [
+          "A.  Intrapersonal",
+          "B.  Interpersonal"
+        ],
+        "extra": [],
+        "explanation": "Soliloquy is an example of intrapersonal communication because it involves a person expressing thoughts aloud to themselves. It reflects internal dialogue and self-reflection, where the individual processes ideas without directly interacting with others. This type of communication helps in clarifying thoughts and emotions internally."
+      },
+      {
+        "number": 9,
+        "question": "Meta-communication is communication which allows people to extract",
+        "options": [
+          "A.  Multiple",
+          "B.  Singular"
+        ],
+        "extra": [],
+        "explanation": "____________ meaning of certain words. Meta-communication is communication that helps people understand the multiple meanings behind words or messages. It goes beyond the literal content, allowing the listener to interpret tone, context, and implied intentions. This helps in grasping subtleties and nuances that direct words alone may not convey."
+      },
+      {
+        "number": 10,
+        "question": "It may be considered ________________ if somebody is traveling at the cost of",
+        "options": [
+          "A.  Ethical",
+          "B.  Unethical"
+        ],
+        "extra": [],
+        "explanation": "organizational funds organization and entertaining at an interview. Using organizational funds for personal travel or entertainment during an interview is considered unethical because it misappropriates resources. It violates trust and professional standards, as organizational funds are meant for official purposes. Such behavior can damage both personal credibility and the organization’s reputation."
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Which one of the following forces does Communication function?",
+        "options": [
+          "A.  Beaming force",
+          "B.  Dividing force",
+          "C.  Binding force",
+          "D.  None of the above"
+        ],
+        "extra": [],
+        "explanation": "Communication functions as a binding force because it connects individuals, teams, and departments within an organization. It helps in sharing information, aligning goals, and fostering cooperation. Without effective communication, coordination and unity would be difficult to achieve."
+      },
+      {
+        "number": 2,
+        "question": "In which book does Sigmund Freud talk about suppressed and repressed",
+        "options": [
+          "A.  The Psychopathology of Everyday Life",
+          "B.  The Ego and the Id",
+          "C.  Totem and Taboo",
+          "D.  Interpretations of Dreams"
+        ],
+        "extra": [],
+        "explanation": "emotions? In Interpretations of Dreams, Sigmund Freud discusses how repressed and suppressed emotions surface through dreams. He explains that the unconscious mind expresses hidden desires and unresolved conflicts in symbolic forms during sleep. This work laid the foundation for understanding the connection between dreams and inner emotions."
+      },
+      {
+        "number": 3,
+        "question": "Which of the following does Ego differentiate between?",
+        "options": [
+          "A.  Image and Emotion",
+          "B.  Memory and Image",
+          "C.  Emotion and Memory",
+          "D.  Image and Emotion"
+        ],
+        "extra": [],
+        "explanation": "The Ego differentiates between memory and image by helping the mind distinguish between actual past experiences and mental representations or perceptions. This ability allows a person to navigate reality accurately, using memories to inform actions while recognizing that images or fantasies are not the same as real events."
+      },
+      {
+        "number": 4,
+        "question": "Name the type of communication when one talks not to others but to",
+        "options": [
+          "A.  Extrapersonal",
+          "B.  Mass Media & Communication",
+          "C.  Intrapersonal",
+          "D.  Interpersonal"
+        ],
+        "extra": [],
+        "explanation": "himself: Intrapersonal communication occurs when a person talks to themselves, reflecting on thoughts or feelings internally. It involves self-dialogue, contemplation, or mental problem-solving without interacting with others. This type of communication helps in clarifying ideas, making decisions, and understanding one’s emotions."
+      },
+      {
+        "number": 5,
+        "question": "Which one among the following systems of personality is the internal representative of the",
+        "options": [
+          "A.  Id",
+          "B.  Super Ego",
+          "C.  Ego",
+          "D.  B&C"
+        ],
+        "extra": [],
+        "explanation": "good and evil? The Super Ego acts as the internal representative of moral standards, distinguishing between good and evil. It develops through societal and parental guidance, guiding behavior according to ethics and values. By regulating impulses from the Id, it helps maintain a sense of conscience and responsibility."
+      },
+      {
+        "number": 6,
+        "question": "Emphasis on facts and figures play a very crucial role in negotiation.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Emphasizing facts and figures in negotiation is crucial because it provides objective evidence to support claims and proposals. It helps build credibility, reduces misunderstandings, and strengthens the basis for agreement. Decisions based on concrete data are more likely to be accepted by all parties involved."
+      },
+      {
+        "number": 7,
+        "question": "When we reach an agreement during the negotiation, we should",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "emphasize the other party’s benefit. Emphasizing the other party’s benefit after reaching an agreement reinforces goodwill and mutual satisfaction. It ensures that both sides feel valued and recognized, which strengthens long-term relationships. Highlighting shared gains also encourages cooperation in future negotiations."
+      },
+      {
+        "number": 8,
+        "question": "Phonetic sound of 8 is most fortuitous of numbers auguring prosperity.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "The number 8 is considered highly auspicious in many cultures, especially in Chinese tradition, because its phonetic sound resembles the word for “prosperity” or “wealth.” This association makes it a symbol of good fortune and success. People often favor it in business, addresses, and important events."
+      },
+      {
+        "number": 9,
+        "question": "NAFTA stands for North American Foreign Trade Agreement.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "NAFTA stands for the North American Free Trade Agreement, not Foreign Trade Agreement. It was established to reduce trade barriers and promote economic cooperation between the United States, Canada, and Mexico. The agreement focuses on free trade rather than foreign trade regulation."
+      },
+      {
+        "number": 10,
+        "question": "People of high context cultures seldom put more stress on non-verbal",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "communication. People from high-context cultures rely heavily on non-verbal cues, such as gestures, tone, and facial expressions, to convey meaning. In these cultures, much of the communication is implicit, and understanding often depends on context rather than just words. Ignoring non-verbal signals can lead to misunderstandings in such cultures."
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Allowing the discussion to go long is one of the critical factors in",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "negotiation. Allowing a discussion to drag on is generally counterproductive in negotiation because it can lead to frustration, misunderstandings, or loss of focus. Effective negotiations are concise, focused, and goal-oriented to reach a mutually beneficial agreement efficiently. Time management is a key factor for successful outcomes."
+      },
+      {
+        "number": 2,
+        "question": "As a negotiator, one must be aggressive throughout without bothering",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "about the other party’s interests. A successful negotiator balances assertiveness with consideration for the other party’s interests. Ignoring the other side can damage relationships and reduce the likelihood of reaching a mutually beneficial agreement. Collaboration and understanding often lead to better long-term outcomes than pure aggression."
+      },
+      {
+        "number": 3,
+        "question": "Which of the following is not an ingredient of self-actualization needs according to Maslow’s",
+        "options": [
+          "A.  Morality",
+          "B.  Creativity",
+          "C.  Shelter",
+          "D.  Property"
+        ],
+        "extra": [],
+        "explanation": "theory of human needs? According to Maslow, self-actualization needs involve personal growth, morality, creativity, and realizing one’s potential. Shelter, however, is a basic physiological or safety need, not part of self-actualization. Self-actualization focuses on fulfilling higher-order aspirations beyond material necessities."
+      },
+      {
+        "number": 4,
+        "question": "Which of the following is the proper way to say “NO” in Japan?",
+        "options": [
+          "A.  Shaking heads back and forth",
+          "B.  Nodding up and down",
+          "C.  Raising their chin",
+          "D.  Moving their right hands"
+        ],
+        "extra": [],
+        "explanation": "In Japan, people often indicate “no” by moving their right hand in a specific gesture, rather than directly saying it or shaking their head. This indirect method respects social harmony and avoids confrontation. Such subtle non-verbal cues are an important part of Japanese communication culture."
+      },
+      {
+        "number": 5,
+        "question": "Which of the following is not accurate about the characteristics of culture?",
+        "options": [
+          "A.  Culture norms are logical",
+          "B.  Cultures are static",
+          "C.  Culture represents identity and community",
+          "D.  Culture can be learned"
+        ],
+        "extra": [],
+        "explanation": "Culture is not static; it evolves over time as societies change, adapt, and interact with other cultures. While culture provides identity, community, and norms that can be learned, it is dynamic and responsive to social, technological, and environmental influences. Assuming culture is fixed ignores its adaptive nature."
+      },
+      {
+        "number": 6,
+        "question": "“Let us never try to negotiate out of fear, but let us also not fear to negotiate.” A quote by",
+        "options": [
+          "A.  Winston Churchill",
+          "B.  John F Kennedy",
+          "C.  Theodore Roosevelt",
+          "D.  None of the above"
+        ],
+        "extra": [],
+        "explanation": "which famous personality? This quote is attributed to John F. Kennedy, emphasizing the importance of balanced negotiation. He advocated approaching negotiations confidently, without being driven by fear, while also recognizing the necessity of engaging in dialogue to resolve conflicts. It reflects his diplomatic and strategic approach to international relations."
+      },
+      {
+        "number": 7,
+        "question": "Which of the following is the full form of GATT?",
+        "options": [
+          "A.  General Association of Trade and Tokens",
+          "B.  Geneva Agreement on Technology and Trade",
+          "C.  General Agreement on Tariff and Trade",
+          "D.  General Association on Trades and Traffic"
+        ],
+        "extra": [],
+        "explanation": "GATT stands for the General Agreement on Tariffs and Trade, established to promote international trade by reducing tariffs and other trade barriers. It laid the foundation for global trade regulations and later evolved into the World Trade Organization (WTO). Its main goal is to encourage economic cooperation and fair trade among nations."
+      },
+      {
+        "number": 8,
+        "question": "What is the meaning of \"You Attitude\" style in business?",
+        "options": [
+          "A.  To believe more in the welfare of the organization.",
+          "B.  To believe in your own welfare.",
+          "C.  To convince other parties how they will be benefitted from a deal.",
+          "D.  None of the above."
+        ],
+        "extra": [],
+        "explanation": "The \"You Attitude\" in business communication focuses on the reader or listener rather than the sender. It emphasizes how the message, product, or service benefits the other party, creating a more persuasive and customer-centered approach. This style builds rapport and encourages positive responses in business interactions."
+      },
+      {
+        "number": 9,
+        "question": "Which of the following is not a strategy to resolve deadlock?",
+        "options": [
+          "A.  To point out no further concessions to be made.",
+          "B.  To use unethical aspects of the agreement.",
+          "C.  To explain and emphasize consequences",
+          "D.  To show sunny side to the other party"
+        ],
+        "extra": [],
+        "explanation": "Using unethical tactics is not a valid strategy to resolve a deadlock because it can damage trust and relationships. Effective deadlock resolution involves highlighting consequences, emphasizing positive outcomes, and clarifying limits without compromising integrity. Ethical approaches ensure long-term cooperation and credibility in negotiations."
+      },
+      {
+        "number": 10,
+        "question": "Which of the following works significantly while using Persuasion as a critical factor in",
+        "options": [
+          "A.  Agreeing instantly",
+          "B.  Talking and listening",
+          "C.  Intimidating throughout",
+          "D.  Whispering and noting points"
+        ],
+        "extra": [],
+        "explanation": "Negotiation? Effective persuasion in negotiation relies on both talking and listening to understand the other party’s needs and concerns. Engaging in dialogue helps build trust, clarify misunderstandings, and present compelling arguments. Active listening ensures that proposals are tailored to be mutually beneficial, increasing the chances of agreement."
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "The study of mental space during a communicative situation is called",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Proxemics. Proxemics specifically studies the use of space and distance in communication, not “mental space.” It focuses on how physical proximity affects interactions, including personal, social, and cultural aspects of spatial behavior."
+      },
+      {
+        "number": 2,
+        "question": "In Thailand and Laos, it is rude for a stranger or acquaintance to touch a",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "child on the top of the head. In Thailand and Laos, the head is considered the most sacred part of the body. Touching a child—or anyone—on the head, especially as a stranger or acquaintance, is viewed as disrespectful. Cultural norms strongly emphasize respecting personal and spiritual boundaries in such interactions."
+      },
+      {
+        "number": 3,
+        "question": "In meta-communication meaning is restricted only to words.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Meta-communication goes beyond the literal words to convey additional meaning through tone, context, gestures, and non-verbal cues. It helps the listener interpret the underlying intent, emotions, or nuances in a message. Relying solely on words would miss the full depth of communication."
+      },
+      {
+        "number": 4,
+        "question": "Effective Listening is different from hearing and it requires adequate",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "practice. Effective listening goes beyond merely hearing words; it involves understanding, interpreting, and responding appropriately. It requires focus, attention, and practice to accurately grasp the speaker’s message. Developing this skill enhances communication and reduces misunderstandings."
+      },
+      {
+        "number": 5,
+        "question": "A good conversation is only where both the speaker and the listener come",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "into a sort of symphony. A good conversation occurs when both the speaker and listener are in harmony, understanding and responding to each other effectively. This “symphony” ensures a balanced exchange of ideas, active engagement, and mutual respect. It creates meaningful and enjoyable communication for both parties."
+      },
+      {
+        "number": 6,
+        "question": "The study of time is called _____________.",
+        "options": [
+          "A.  ergonomics",
+          "B.  chronemics"
+        ],
+        "extra": [],
+        "explanation": "Chronemics is the study of how people perceive and use time in communication. It examines aspects like punctuality, waiting, time management, and cultural differences in time orientation. Understanding chronemics helps improve interactions and reduces misunderstandings related to timing."
+      },
+      {
+        "number": 7,
+        "question": "Meta-communication symbolizes _____________.",
+        "options": [
+          "A.  partiality",
+          "B.  neutrality"
+        ],
+        "extra": [],
+        "explanation": "Meta-communication symbolizes neutrality because it conveys information about the message itself without adding personal bias or judgment. It helps clarify intent, context, and meaning, allowing the receiver to interpret the communication more accurately. This ensures understanding beyond just the words spoken."
+      },
+      {
+        "number": 8,
+        "question": "Lying is done with words and also with __________________.",
+        "options": [
+          "A.  lips",
+          "B.  silence"
+        ],
+        "extra": [],
+        "explanation": "Lying can be expressed not only through false words but also through silence, by deliberately withholding information. Silence can mislead or create false impressions, making it a subtle form of deception. Both verbal and non-verbal actions can influence how truth is perceived."
+      },
+      {
+        "number": 9,
+        "question": "A successful communication is the result of shared assumptions and",
+        "options": [
+          "A.  unspoken arguments",
+          "B.  spoken words"
+        ],
+        "extra": [],
+        "explanation": "__________. Successful communication depends not only on shared assumptions but also on unspoken arguments, which include implicit meanings, context, and non-verbal cues. These unspoken elements help convey deeper understanding beyond the literal words, ensuring the message is fully grasped."
+      },
+      {
+        "number": 10,
+        "question": "To which stage of Listening, does Interpreting belong?",
+        "options": [
+          "A.  First",
+          "B.  Third",
+          "C.  Second",
+          "D.  Fourth"
+        ],
+        "extra": [],
+        "explanation": "Interpreting belongs to the third stage of listening, where the listener goes beyond hearing and understanding the words to make sense of the meaning. This stage involves analyzing, evaluating, and assigning significance to the message. It is crucial for effective comprehension and response."
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Which one of the following statements is/are most suitable for Combative listening?",
+        "options": [
+          "A.  Listening simply to promote/strengthen our own views",
+          "B.  Listening to each and every word of the speaker",
+          "C.  Listening to words and analyzing them simultaneously.",
+          "D.  None of the above."
+        ],
+        "extra": [],
+        "explanation": "Combative listening occurs when a person listens only to argue or defend their own viewpoint rather than understand the speaker. The focus is on countering or refuting ideas, not on genuinely processing or evaluating the message. This type of listening often leads to conflict rather than productive dialogue."
+      },
+      {
+        "number": 2,
+        "question": "Pick out the odd one which does not fall into the external factors that affect listening:",
+        "options": [
+          "A.  culture",
+          "B.  space",
+          "C.  noise",
+          "D.  time"
+        ],
+        "extra": [],
+        "explanation": "Among the options, space does not typically fall under external factors affecting listening. External factors usually include noise, time, and environmental conditions that interfere with receiving the message. Space, while related to proxemics, is considered more of a physical or contextual factor rather than a primary external listening barrier."
+      },
+      {
+        "number": 3,
+        "question": "In the word Meta-Communication, what does “Meta” mean?",
+        "options": [
+          "A.  Nearby",
+          "B.  Cease",
+          "C.  Beyond",
+          "D.  Imminent"
+        ],
+        "extra": [],
+        "explanation": "In meta-communication, “Meta” means “beyond,” indicating communication about communication itself. It refers to signals, context, or cues that go beyond the literal words to convey additional meaning. This helps the listener interpret intentions, emotions, and nuances accurately."
+      },
+      {
+        "number": 4,
+        "question": "Which of the following does not fall under the High Context Culture?",
+        "options": [
+          "A.  France",
+          "B.  China",
+          "C.  Mexico",
+          "D.  Greece"
+        ],
+        "extra": [],
+        "explanation": "High-context cultures rely heavily on implicit communication, non-verbal cues, and shared understanding, as seen in China, Mexico, and Greece. France, however, is considered a low-context culture where communication is more explicit, direct, and relies on clear verbal expression rather than context."
+      },
+      {
+        "number": 5,
+        "question": "Which of the following is not symbolized by a handshake?",
+        "options": [
+          "A.  Animosity",
+          "B.  Dominance",
+          "C.  Submission",
+          "D.  Equality"
+        ],
+        "extra": [],
+        "explanation": "A handshake typically symbolizes dominance, submission, or equality depending on the context and manner in which it is offered. It does not represent animosity, as the gesture is generally intended to convey goodwill, agreement, or mutual respect."
+      },
+      {
+        "number": 6,
+        "question": "Through the area known as the unknown self, as propagated by Joe and",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Harry, we can have a self-discovery. The \"unknown self,\" as described in the Johari Window by Joseph Luft and Harrington Ingham, represents aspects of ourselves that are hidden both from ourselves and others. Exploring this area can lead to self-discovery, personal growth, and improved interpersonal understanding."
+      },
+      {
+        "number": 7,
+        "question": "Non-verbal communications are spontaneous compared to verbal",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "communication. Non-verbal communication is often spontaneous because it arises naturally through gestures, facial expressions, posture, and tone of voice. Unlike verbal communication, which usually requires conscious formulation of words, non-verbal cues can convey emotions and reactions instinctively."
+      },
+      {
+        "number": 8,
+        "question": "Voicemail is a storage device since information can be printed.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Voicemail is not a storage device for printed information; it is an audio messaging system that records and stores spoken messages electronically. The information is accessed and played back audibly, not printed. It serves as a communication tool rather than a physical storage medium."
+      },
+      {
+        "number": 9,
+        "question": "If a message is delivered with a squinted eye, the message tends to",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "become positive. Delivering a message with a squinted eye is generally perceived as suspicious, skeptical, or negative. Non-verbal cues like facial expressions significantly influence how a message is interpreted. A squint usually conveys doubt or hostility, which can undermine the positivity of the message."
+      },
+      {
+        "number": 10,
+        "question": "The use of flat hands during communication symbolizes boredom.",
+        "options": [
+          "A.  False",
+          "B.  True"
+        ],
+        "extra": [],
+        "explanation": "Using flat hands in communication does not inherently symbolize boredom; it can simply indicate openness, honesty, or neutrality. Non-verbal cues must be interpreted in context, as the same gesture can convey different meanings depending on the situation and cultural background."
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Teleconferencing is not an alternative to face-to-face meetings.",
+        "options": [
+          "A.  False",
+          "B.  True"
+        ],
+        "extra": [],
+        "explanation": "Teleconferencing is indeed an alternative to face-to-face meetings, allowing participants to communicate remotely via audio or video. While it may lack some in-person nuances, it effectively facilitates discussion, decision-making, and collaboration across distances."
+      },
+      {
+        "number": 2,
+        "question": "The rise and fall of our voices during communication can be termed as",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "intonation during a presentation. Intonation refers to the rise and fall of the voice while speaking, which conveys meaning, emphasis, and emotion. During a presentation, proper intonation helps maintain audience interest, clarify points, and express confidence or urgency effectively."
+      },
+      {
+        "number": 3,
+        "question": "Who among the following is the author of the famous book \"The Power of Positive",
+        "options": [
+          "A.  William Faulkner",
+          "B.  Norman Vincent Peale",
+          "C.  William James",
+          "D.  Dr. Eric Berne"
+        ],
+        "extra": [],
+        "explanation": "Thinking\"? Norman Vincent Peale is the author of The Power of Positive Thinking, a book that emphasizes the impact of optimism, faith, and constructive thinking on personal success and well-being. It has inspired millions to adopt a positive mindset in facing challenges."
+      },
+      {
+        "number": 4,
+        "question": "A person thinks that it is he who matters and not others and says “I’m",
+        "options": [
+          "A.  Introvert",
+          "B.  Imposing",
+          "C.  Positive",
+          "D.  Negative"
+        ],
+        "extra": [],
+        "explanation": "okay, you are not okay…”.  To which category of personality does such a person belong? A person who thinks “I’m okay, you are not okay” exhibits an imposing personality, focusing on their own importance while devaluing others. This attitude often leads to dominance, control, and a lack of empathy in interactions. It contrasts with positive or cooperative personality traits that value mutual respect."
+      },
+      {
+        "number": 5,
+        "question": "Johari Window functions to illustrate and improve self-awareness and mental understanding.",
+        "options": [
+          "A.  Four",
+          "B.  Seven",
+          "C.  Five",
+          "D.  Six"
+        ],
+        "extra": [],
+        "explanation": "How many parts does the Johari Window have? The Johari Window is divided into four parts: the open self, hidden self, blind self, and unknown self. These sections help individuals understand what is known and unknown to themselves and others, improving self-awareness, communication, and interpersonal relationships."
+      },
+      {
+        "number": 6,
+        "question": "In telephonic communication, if a person is calling or giving information to somebody or",
+        "options": [
+          "A.  Figurative language",
+          "B.  Courtesy",
+          "C.  Clarity of Voice",
+          "D.  Ambiguity"
+        ],
+        "extra": [],
+        "explanation": "seeking information from somebody, which two of the following are mandatory? In telephonic communication, maintaining courtesy and a clear voice is essential to ensure the message is understood and the interaction remains professional. Figurative language or ambiguity can confuse the listener, whereas politeness and vocal clarity facilitate effective information exchange."
+      },
+      {
+        "number": 7,
+        "question": "“Men trust their ears less than their eyes”.  Who among the following is",
+        "options": [
+          "A.  Socrates",
+          "B.  Aristotle",
+          "C.  Homer",
+          "D.  Herodotus"
+        ],
+        "extra": [],
+        "explanation": "credited with this quote? The quote “Men trust their ears less than their eyes” is attributed to Herodotus, emphasizing that people often give more credence to what they see than what they hear. This highlights the human tendency to rely on visual evidence over verbal information in forming judgments."
+      },
+      {
+        "number": 8,
+        "question": "Our voice plays a very significant role during an oral communication.",
+        "options": [
+          "A.  Silence and pauses",
+          "B.  Nasalization",
+          "C.  Pitch",
+          "D.  Both A&B"
+        ],
+        "extra": [],
+        "explanation": "Which of the following impedes our oral communication? Nasalization in speech can impede oral communication by making the voice unclear or difficult to understand. Unlike pitch or natural pauses, nasalized speech can distract listeners and reduce the effectiveness of conveying the intended message."
+      },
+      {
+        "number": 9,
+        "question": "Which one of the following do/doesn’t form part of kinesics?",
+        "options": [
+          "A.  Hands",
+          "B.  Eyes",
+          "C.  Odour",
+          "D.  Scowl"
+        ],
+        "extra": [],
+        "explanation": "Kinesics is the study of body movements, gestures, facial expressions, and posture in communication. Hands, eyes, and scowls are all part of non-verbal cues studied in kinesics, whereas odour is unrelated and falls outside this domain."
+      },
+      {
+        "number": 10,
+        "question": "Majority of speakers use pitch variation during a speaking situation.  is",
+        "options": [
+          "A.  Pitch variations convey feelings.",
+          "B.  Pitch changes are called inflexions.",
+          "C.  Vocal cords vibrate in the production of sounds.",
+          "D.  Speech with variation tends to confuse listeners."
+        ],
+        "extra": [],
+        "explanation": "mandatory to make our speech effective. Which of the following is not true about Pitch- variations? Pitch variations enhance speech by conveying emotions, emphasizing points, and maintaining listener interest. Changes in pitch are called inflexions, and vocal cords produce these variations. Effective use of pitch does not confuse listeners; instead, it makes communication more engaging and clear."
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "The term \"reports\" has been derived from the Latin word:",
+        "options": [
+          "A.  Reportare",
+          "B.  Rapporteur",
+          "C.  Reportee",
+          "D.  Reportere"
+        ],
+        "extra": [],
+        "explanation": "The term \"reports\" is derived from the Latin word reportare, which means “to carry back” or “to bring back.” It reflects the idea of conveying information or accounts from one person or place to another, forming the basis of reporting in communication."
+      },
+      {
+        "number": 2,
+        "question": "Find out the correct statement(s) about the personal interview as a method of data collection:",
+        "options": [
+          "A.  An interview shows both verbal and non-verbal behaviour",
+          "B.  It accommodates the obtrusive behaviour of the interviewer",
+          "C.  It can provide the interviewer with further information after observation",
+          "D.  Both A & C"
+        ],
+        "extra": [],
+        "explanation": "Personal interviews allow the collection of both verbal and non-verbal cues, providing a richer understanding of responses. They also enable interviewers to gather additional information based on observations and follow-up questions. While interviewer presence can influence responses, it does not accommodate obtrusive behavior as a positive aspect."
+      },
+      {
+        "number": 3,
+        "question": "Which of the following doesn't comprise the salient features of a report?",
+        "options": [
+          "A.  A formal piece of writing",
+          "B.  A factual account",
+          "C.  Written in a pompous language",
+          "D.  Well organised"
+        ],
+        "extra": [],
+        "explanation": "A report should be clear, concise, and objective, not filled with pompous or overly complex language. Its purpose is to present factual information in a well-organized and formal manner."
+      },
+      {
+        "number": 4,
+        "question": "What is/are the objective(s) of a report?",
+        "options": [
+          "A.  To update progress",
+          "B.  To arrive at a result based on data collection",
+          "C.  To spread information",
+          "D.  All of the above"
+        ],
+        "extra": [],
+        "explanation": "Reports aim to update progress, analyze data to reach conclusions, and communicate information clearly. They serve multiple purposes depending on context—academic, business, or technical."
+      },
+      {
+        "number": 5,
+        "question": "Which is the best method of data collection when you have a large crowd:",
+        "options": [
+          "A.  Personal interviews",
+          "B.  Questionnaire",
+          "C.  Telephonic interview",
+          "D.  Personal observation"
+        ],
+        "extra": [
+          "Identify the True statements and write (T) against them and (F) against the False"
+        ],
+        "explanation": "A questionnaire is efficient and cost-effective for collecting data from a large crowd simultaneously. It allows standardized responses and can be easily distributed and analyzed. statements: (05)"
+      },
+      {
+        "number": 6,
+        "question": "No fixed structure is included in literary writings.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Literary writings like poems, novels, and stories often follow creative freedom without fixed structures. Writers can experiment with form, style, and structure to express ideas artistically."
+      },
+      {
+        "number": 7,
+        "question": "Technical reports are subjective in approach.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Technical reports are objective, focusing on facts, data, and analysis without personal opinions. Their goal is to inform or instruct based on evidence, not personal perspective."
+      },
+      {
+        "number": 8,
+        "question": "Unity and coherence are the salient features of a report.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Unity ensures all parts of the report focus on the main objective, while coherence makes it logically connected. These features help readers understand the report clearly and effectively."
+      },
+      {
+        "number": 9,
+        "question": "Short reports are usually formal in nature.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Short reports are usually informal, especially in internal communication like memos or emails. They often skip detailed structure and use a direct, concise style."
+      },
+      {
+        "number": 10,
+        "question": "One should consistently use concise, plain, and direct language while drafting a technical",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [
+          "Fill in the blanks with the most suitable option given as a choice:                    (05)"
+        ],
+        "explanation": "report. Technical reports should use clear, concise, and straightforward language to ensure easy understanding. This avoids confusion and ensures accurate communication of complex information."
+      },
+      {
+        "number": 11,
+        "question": "___________ language is used in technical reports.",
+        "options": [
+          "A.  Plain",
+          "B.  Rhetorical"
+        ],
+        "extra": [],
+        "explanation": "Plain language is used in technical reports to ensure clarity and precision. It helps readers understand complex information without ambiguity."
+      },
+      {
+        "number": 12,
+        "question": "There is no aesthetic pleasure included in __________ reports.",
+        "options": [
+          "A.  mechanical",
+          "B.  technical"
+        ],
+        "extra": [],
+        "explanation": "Technical reports focus on facts and functionality, not on aesthetic or artistic pleasure. Their purpose is to inform clearly, not to entertain or provide artistic value."
+      },
+      {
+        "number": 13,
+        "question": "A __________ is a formal communication written for a specific purpose; it includes a",
+        "options": [
+          "A.  report",
+          "B.  bibliography"
+        ],
+        "extra": [],
+        "explanation": "description of procedures followed for the collection and analysis of data. A report is a formal document detailing methods, data collection, and analysis for a specific purpose. Bibliography, on the other hand, is a list of sources and references, not a detailed communication."
+      },
+      {
+        "number": 14,
+        "question": "____________ reports are non-technical in nature.",
+        "options": [
+          "A.  Management",
+          "B.  Routine"
+        ],
+        "extra": [],
+        "explanation": "Management reports focus on business decisions and operations, often using non-technical language. Routine reports are regular updates but can be technical or non-technical depending on context."
+      },
+      {
+        "number": 15,
+        "question": "Library and the Internet are the ____________ sources of data collection.",
+        "options": [
+          "A.  primary",
+          "B.  secondary"
+        ],
+        "extra": [],
+        "explanation": "Library and Internet provide existing information, making them secondary sources. Primary sources involve original data collected firsthand."
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "preamble": "Given below are multiple-choice questions having four options. Select the most\nappropriate option as your answer: (05)",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Which of the following features is/are included in an abstract?",
+        "options": [
+          "A.  Pagination",
+          "B.  Graphs and charts",
+          "C.  Purpose of the report",
+          "D.  Equations, figures, and tables."
+        ],
+        "extra": [],
+        "explanation": "An abstract summarizes the report's main purpose and key points briefly. It does not include pagination, graphs, charts, or detailed figures."
+      },
+      {
+        "number": 2,
+        "question": "Which among the following does not formulate an executive summary of a report?",
+        "options": [
+          "A.  Objectives",
+          "B.  Findings",
+          "C.  Methodology",
+          "D.  References"
+        ],
+        "extra": [],
+        "explanation": "An executive summary includes objectives, findings, and methodology to provide a brief overview. References are detailed citations and are not part of the summary."
+      },
+      {
+        "number": 3,
+        "question": "Style for functional writing should be unobtrusive, an invisible medium like a windowpane",
+        "options": [
+          "A.  George Orwell",
+          "B.  Nathanial Hawthorne",
+          "C.  George Elliot",
+          "D.  Mohsin Hamid"
+        ],
+        "extra": [],
+        "explanation": "through which the information can be clearly seen\". Who has said these lines? George Orwell emphasized clear, straightforward writing that lets the information shine without distraction. His style advocates simplicity and transparency, especially in functional writing."
+      },
+      {
+        "number": 4,
+        "question": "What is/are the advantage(s) of group communication?",
+        "options": [
+          "A.  Seldom productive and fruitful",
+          "B.  Individual views are often ignored",
+          "C.  Creates a sense of belonging and adds group dynamics",
+          "D.  Hidden agenda of some may affect group interaction"
+        ],
+        "extra": [],
+        "explanation": "Group communication fosters teamwork, collaboration, and shared goals. Though it has challenges, it mainly strengthens group cohesion and idea exchange."
+      },
+      {
+        "number": 5,
+        "question": "Which one is/are the correct form of MLA formatting style?",
+        "options": [
+          "A.  Gibaldi, Joseph. MLA Handbook for writers of Research Papers. Sixth Edition. New",
+          "B.  Gibaldi, J. MLA Handbook for Writers of Research Papers. 2004. New Delhi, Edition:",
+          "C.  Both A & B",
+          "D.  None of the above"
+        ],
+        "extra": [
+          "Identify the True statements and write (T) against them and (F) against the False"
+        ],
+        "explanation": "Delhi: EWP. 2004 EWP. Option A correctly follows MLA format with author, title, edition, publisher, place, and year. Option B is incorrectly ordered and incomplete. statements: (05)"
+      },
+      {
+        "number": 6,
+        "question": "An abstract is a clear, concise, and condensed record of any report or research paper.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "An abstract summarizes the key points of a report or research paper briefly and clearly. It helps readers quickly understand the purpose and findings without reading the full document."
+      },
+      {
+        "number": 7,
+        "question": "Summary is generally shorter than the abstract.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "An abstract is usually shorter and more concise than a summary. Summaries often provide a broader overview and can be longer than abstracts."
+      },
+      {
+        "number": 8,
+        "question": "Acceptance of everyone's ideas without any discussion is one of the advantages of group",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "communication skills. Group communication encourages discussion and evaluation of ideas, not blind acceptance. Critical thinking and constructive feedback improve decision-making and collaboration."
+      },
+      {
+        "number": 9,
+        "question": "Working towards a common set of goals is one of the characteristics of a team.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "A key feature of a team is collaborating to achieve shared goals. This unity drives coordination and collective success."
+      },
+      {
+        "number": 10,
+        "question": "Glossary serves as a window display of the report.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "A glossary provides definitions of terms used in the report, not a display or overview. It helps readers understand specific vocabulary but is not a summary or window display."
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Which one of the following is not a trait of leadership?",
+        "options": [
+          "A.  Enthusiasm",
+          "B.  Charisma",
+          "C.  Indecision",
+          "D.  Assertiveness"
+        ],
+        "extra": [],
+        "explanation": "Leadership requires confidence and decisiveness, not indecision. Traits like enthusiasm, charisma, and assertiveness help inspire and guide others effectively."
+      },
+      {
+        "number": 2,
+        "question": "A leadership style in which one person makes all the decisions and takes relatively",
+        "options": [
+          "A.  Laissez-faire",
+          "B.  Democratic",
+          "C.  Transactional",
+          "D.  Autocratic"
+        ],
+        "extra": [],
+        "explanation": "few inputs from the rest of the group is called In autocratic leadership, one person has full control and makes decisions independently. This style involves little input or participation from the group members."
+      },
+      {
+        "number": 3,
+        "question": "Who developed the \"Least Preferred Co-Worker (LPC) Scale\" to measure",
+        "options": [
+          "A.  Fiedler",
+          "B.  Bloom",
+          "C.  Likert",
+          "D.  Freud"
+        ],
+        "extra": [],
+        "explanation": "leadership style? Fred Fiedler developed the LPC Scale to identify a leader’s style based on how they describe their least preferred coworker. It helps determine if a leader is task-oriented or relationship-oriented."
+      },
+      {
+        "number": 4,
+        "question": "Which one of the following qualities should be shown by a participant during a group",
+        "options": [
+          "A.  Dominance",
+          "B.  Ignorance",
+          "C.  Subjectivity",
+          "D.  Flexibility"
+        ],
+        "extra": [],
+        "explanation": "discussion? Flexibility allows participants to listen, adapt, and consider others’ viewpoints during a group discussion. Dominance, ignorance, and subjectivity can hinder effective communication and collaboration."
+      },
+      {
+        "number": 5,
+        "question": "Which one of the following is not evaluated during a group discussion?",
+        "options": [
+          "A.  Candidate's awareness",
+          "B.  Leadership",
+          "C.  Hypocrisy",
+          "D.  Clarity of thoughts"
+        ],
+        "extra": [
+          "State whether the following statements are True or False: (05)"
+        ],
+        "explanation": "Group discussions assess awareness, leadership skills, and clarity of thoughts. Hypocrisy is a negative trait and is not a criterion for evaluation."
+      },
+      {
+        "number": 6,
+        "question": "The sole purpose of a group discussion is to check the candidate's fluency.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Group discussions evaluate multiple skills like communication, leadership, teamwork, and critical thinking—not just fluency."
+      },
+      {
+        "number": 7,
+        "question": "Effective leadership is always task-oriented.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Effective leadership balances both task-oriented and people-oriented approaches depending on the situation. Focusing solely on tasks may ignore team morale and motivation."
+      },
+      {
+        "number": 8,
+        "question": "A meeting without an agenda is like a journey without a destination.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "An agenda provides structure and purpose to a meeting, guiding discussion and decisions. Without it, meetings can be unproductive and unfocused."
+      },
+      {
+        "number": 9,
+        "question": "Every group discussion should aim at a logical conclusion.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "A group discussion should lead to a clear, logical conclusion or decision. This ensures the discussion is purposeful and productive."
+      },
+      {
+        "number": 10,
+        "question": "Employees should be considered as more than just a means to a goal.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Employees are valuable individuals whose well-being and development matter beyond just achieving goals. Recognizing this fosters motivation, loyalty, and a positive work environment."
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Which one of the following is not a characteristic of speaking skills?",
+        "options": [
+          "A.  Spontaneity",
+          "B.  Passivity",
+          "C.  Emotive",
+          "D.  Lucidity"
+        ],
+        "extra": [],
+        "explanation": "Speaking skills require active engagement and expression, so passivity is not a characteristic. Spontaneity, emotive quality, and lucidity are all key traits of effective speaking."
+      },
+      {
+        "number": 2,
+        "question": "Which one of the following is not a component of effective speaking?",
+        "options": [
+          "A.  Choice of vocabulary items",
+          "B.  Clarity of voice",
+          "C.  Fast pace of speaking",
+          "D.  Expressive body language"
+        ],
+        "extra": [],
+        "explanation": "Effective speaking focuses on clear vocabulary, voice clarity, and expressive body language. Speaking too fast can hinder understanding and reduce effectiveness."
+      },
+      {
+        "number": 3,
+        "question": "Which (one) of the following is/are true about nervousness?",
+        "options": [
+          "A.  It is normal and universal.",
+          "B.  It cannot be controlled.",
+          "C.  It may be caused due to lack of experience.",
+          "D.  Both,  It is normal and universal.  , It may be caused due to lack of experience."
+        ],
+        "extra": [],
+        "explanation": "Nervousness is a common feeling everyone experiences, especially when inexperienced. However, it can be controlled with practice and confidence-building."
+      },
+      {
+        "number": 4,
+        "question": "Which one of the following could be the best way to give a presentation on a complex topic or subject?",
+        "options": [
+          "A.  Memorization",
+          "B.  Extemporaneous",
+          "C.  Reading from the manuscript",
+          "D.  Impromptu"
+        ],
+        "extra": [],
+        "explanation": "For very complex or technical topics, reading from a manuscript ensures accuracy and that no important details are missed. It helps maintain precision when the content is dense and requires exact wording."
+      },
+      {
+        "number": 5,
+        "question": "To effectively use visual aids during a presentation, the speaker should",
+        "options": [
+          "A.  Continuously look at the visual aids instead of the audience",
+          "B.  Close the visual aids if they are not referring to them at the moment",
+          "C.  Synchronise their talk with the visual aids",
+          "D.  Both, Close the visual aids if they are not referring to them at the moment., Synchronise their talk"
+        ],
+        "extra": [
+          "State whether the following statements are True or False: (5)"
+        ],
+        "explanation": "with the visual aids. Effective use of visual aids means coordinating your speech with them and not distracting the audience by constantly looking at or showing visuals when not needed. This keeps the audience focused and engaged."
+      },
+      {
+        "number": 6,
+        "question": "Speaking abilities include both verbal and non-verbal communication.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Speaking abilities involve not just the words we say (verbal) but also gestures, facial expressions, and body language (non-verbal), which help convey meaning and emotion."
+      },
+      {
+        "number": 7,
+        "question": "You should use unfamiliar and pompous words in your speech to look confident.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Using unfamiliar or pompous words can confuse your audience and reduce clarity. Confidence comes from clear, simple, and effective communication, not complicated language."
+      },
+      {
+        "number": 8,
+        "question": "One should always read the slides to deliver an effective presentation.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Reading slides verbatim can make your presentation dull and disengage the audience. Effective presenters use slides as prompts and speak naturally to connect better."
+      },
+      {
+        "number": 9,
+        "question": "Some basic information about the audience's background may be helpful while preparing a",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "presentation or speech. Knowing your audience’s background helps tailor your content, language, and examples, making your presentation more relevant and engaging for them."
+      },
+      {
+        "number": 10,
+        "question": "The presenter must keep a singular tone throughout the presentation.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "A presenter should vary their tone to keep the audience engaged and emphasize key points, rather than using a monotonous or singular tone throughout."
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "An impactful presentation should have a summary slide at the end.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "A summary slide helps reinforce key points and ensures the audience leaves with a clear understanding of the main message."
+      },
+      {
+        "number": 2,
+        "question": "A great speech must include a lot of visual aids.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "Too many visual aids can distract the audience. A great speech uses visuals selectively to support and clarify key points, not overwhelm them."
+      },
+      {
+        "number": 3,
+        "question": "A resume should always have a font size of 14 and above.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "A resume font size is usually best between 10 and 12 for readability and professionalism; size 14 or above can look too large and take up unnecessary space."
+      },
+      {
+        "number": 4,
+        "question": "Testimonials/references from your former colleagues may give an edge to your job",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "application. Testimonials or references can strengthen your job application by providing credible endorsements of your skills and work ethic."
+      },
+      {
+        "number": 5,
+        "question": "A job interview is a casual meeting between the candidate and the employer.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [
+          "Choose the most appropriate option: (5)"
+        ],
+        "explanation": "A job interview is a formal evaluation where the employer assesses the candidate’s skills, experience, and fit for the role—not just a casual meeting."
+      },
+      {
+        "number": 6,
+        "question": "The conclusion of a presentation should be",
+        "options": [
+          "A.  wordy",
+          "B.  extensive",
+          "C.  short and crisp",
+          "D.  all of the above"
+        ],
+        "extra": [],
+        "explanation": "A conclusion should briefly summarize key points and leave a strong final impression without overwhelming the audience."
+      },
+      {
+        "number": 7,
+        "question": "Which one of the following is not a feature of an effective presentation?",
+        "options": [
+          "A.  Lengthy introduction",
+          "B.  Real-life experiences",
+          "C.  Humour",
+          "D.  All of the above"
+        ],
+        "extra": [],
+        "explanation": "An effective presentation avoids long introductions to keep the audience engaged, while real-life experiences and humor help connect and maintain interest."
+      },
+      {
+        "number": 8,
+        "question": "What is a speech delivered in memory of someone called?",
+        "options": [
+          "A.  A welcome speech",
+          "B.  An obituary speech",
+          "C.  A commemorative speech",
+          "D.  A felicitation speech"
+        ],
+        "extra": [],
+        "explanation": "It is delivered to honor and remember someone, celebrating their life or achievements."
+      },
+      {
+        "number": 9,
+        "question": "Which category of communication does an interview belong to?",
+        "options": [
+          "A.  Intrapersonal communication",
+          "B.  Interpersonal communication",
+          "C.  Extrapersonal communication",
+          "D.  Thoroughly meta-communication"
+        ],
+        "extra": [],
+        "explanation": "An interview involves direct, two-way interaction between people, fitting the interpersonal communication category."
+      },
+      {
+        "number": 10,
+        "question": "What should an ideal applicant for a job interview reflect?",
+        "options": [
+          "A.  He should have prior knowledge about the organisation.",
+          "B.  He should have relevant qualifications and experience.",
+          "C.  He should be aggressive and outspoken.",
+          "D.  All of the above"
+        ],
+        "extra": [],
+        "explanation": "Having prior knowledge about the organization shows preparation and interest. Relevant qualifications and experience prove suitability for the role."
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "preamble": "",
+    "questions": [
+      {
+        "number": 1,
+        "question": "She ________ not like being told what to do by someone junior ______ her.",
+        "options": [
+          "A.  does, than",
+          "B.  do, to",
+          "C.  does, to",
+          "D.  did, then"
+        ],
+        "extra": [],
+        "explanation": "Full sentence: She does not like being told what to do by someone junior to her. “Does” matches the singular subject “She,” and “to” is the correct preposition here."
+      },
+      {
+        "number": 2,
+        "question": "What should not be included in the objective statement of a resume?",
+        "options": [
+          "A.  Your areas of expertise and career interest",
+          "B.  Your desired salary",
+          "C.  Relevant skills required for the job",
+          "D.  All of the above"
+        ],
+        "extra": [],
+        "explanation": "Objective statements focus on your skills, expertise, and career goals—not salary expectations, which are usually discussed later in the hiring process."
+      },
+      {
+        "number": 3,
+        "question": "What should be mentioned in a good cover letter?",
+        "options": [
+          "A.  Arousing curiosity in the recruiter",
+          "B.  A detailed explanation of achievements",
+          "C.  Names of referees",
+          "D.  Reasons for leaving the previous job"
+        ],
+        "extra": [],
+        "explanation": "A good cover letter should grab the recruiter's attention and make them interested in learning more about you, rather than listing detailed achievements or personal details like reasons for leaving."
+      },
+      {
+        "number": 4,
+        "question": "Which one of the following is a characteristic of emotional intelligence?",
+        "options": [
+          "A.  Great problem-solving skills",
+          "B.  Having a good interpersonal relationship",
+          "C.  Good sense of humour",
+          "D.  All of the above"
+        ],
+        "extra": [],
+        "explanation": "Emotional intelligence mainly involves understanding and managing emotions, which helps build strong interpersonal relationships. Problem-solving and humor are valuable but not core emotional intelligence traits."
+      },
+      {
+        "number": 5,
+        "question": "What should the interviewee do at the end of an interview?",
+        "options": [
+          "A.  Ask the interviewer if you are selected",
+          "B.  Ask them about the salary",
+          "C.  Thank the interviewer",
+          "D.  First initiate the handshake"
+        ],
+        "extra": [
+          "State whether the following statements are True or False: (5)"
+        ],
+        "explanation": "Ending the interview politely with a thank you shows professionalism and leaves a positive impression. Initiating a handshake is usually done at the start or naturally at the end, but thanking is essential."
+      },
+      {
+        "number": 6,
+        "question": "References should seldom be mentioned or skipped in a resume.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "References are usually provided only when requested, so it’s common to omit them from the resume to save space and maintain privacy."
+      },
+      {
+        "number": 7,
+        "question": "Words like mom and dad should always be capitalised when used with possessive",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "pronouns/adjectives. Words like mom and dad are only capitalized when used as proper nouns (i.e., replacing a name). But when used with possessive pronouns/adjectives (like my mom or her dad), they are not capitalized."
+      },
+      {
+        "number": 8,
+        "question": "All relevant diplomas/certificates should be mentioned in a resume so that one stands out",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "from the rest. Including all relevant diplomas and certificates in a resume showcases your qualifications clearly. It helps you stand out by proving your skills and knowledge related to the job. However, only certificates relevant to the position should be highlighted to keep the resume focused."
+      },
+      {
+        "number": 9,
+        "question": "Only your friends and relatives are the best references.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "The best references are professional contacts like former employers, supervisors, or teachers who can speak about your work and skills. Friends and relatives are not considered objective or credible references."
+      },
+      {
+        "number": 10,
+        "question": "A cover letter should give the hiring manager some insights into your professional life.",
+        "options": [
+          "A.  True",
+          "B.  False"
+        ],
+        "extra": [],
+        "explanation": "A cover letter introduces you to the hiring manager and provides insights into your skills, experience, and suitability for the role. It complements your resume by adding a personal and professional touch."
+      }
+    ]
+  }
+]
